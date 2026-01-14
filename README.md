@@ -29,3 +29,6 @@ https://www.kaggle.com/datasets/vincentcornlius/sales-orders/data
 # Outputs
 - **analytics_daily_kpis** - daily revenue, margin, units sold, and order count
 - **analytics_product_kpis** – total revenue, total margin, and units sold by product
+
+
+<img width="1318" height="741" alt="image" src="https://github.com/user-attachments/assets/77d0e233-db5c-4f57-a4dd-c9c5455e56d3" />
